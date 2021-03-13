@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manell0 here on github
-  - My real name is Svante
+  - My real name is Svante Magnell
 - 👀 I’m primarily interested in programming 
 - 🌱 I’m currently learning to be a Full Stack Developer (Code Instetute, Dublin)
 - 💞️ I’m looking to collaborate on projects where I benefit the team and that can help me become a good developer...
